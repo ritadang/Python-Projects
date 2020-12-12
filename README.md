@@ -1,4 +1,4 @@
-# Python-Projects
+# Image Processing with Python
 
 ## use NumPy array manipulation to perform simple image processing tasks.
 
